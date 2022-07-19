@@ -116,16 +116,15 @@ If you wish to continue working on the "User" lab, please be sure to copy your c
 
 **Setup for the lesson:**
 
-1. `cd ~/code/react-mastermind`
-2. `git fetch --all`, then `git reset --hard origin/master`
-3. Open the project in VS Code
-4. Open a terminal in VS Code (`ctrl + backtick`)
-5. Install the Node modules: `$ npm i`
-6. Create a `build` folder so that the Express app can start:  `npm run build`
-7. Create a .env file:  `touch .env`
-8. In .env, add a DB connection entry:  `DATABASE_URL=ToBeProvided`
-9. After `ToBeProvided` has been updated, start the Express web app:  `nodemon server`  
-10. In a separate terminal, start the React Dev Server: `$ npm start`
+1. `cd ~/student/react-mastermind`
+2. Open the project in VS Code
+3. Open a terminal in VS Code (`ctrl + backtick`)
+4. Install the Node modules: `$ npm i`
+5. Create a `build` folder so that the Express app can start:  `npm run build`
+6. Create a .env file:  `touch .env`
+7. In .env, add a DB connection entry:  `DATABASE_URL=ToBeProvided`
+8. After `ToBeProvided` has been updated, start the Express web app:  `nodemon server`  
+9. In a separate terminal, start the React Dev Server: `$ npm start`
 
 #### Review the Code
 
