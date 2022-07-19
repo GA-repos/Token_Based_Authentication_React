@@ -110,10 +110,6 @@ The starter code is the full-stack Mastermind app with high score functionality 
 
 #### Setup
 
-If you wish to continue working on the "User" lab, please be sure to copy your current project before syncing with the repo using a command such as:
-
-`cp -R ~/code/react-mastermind ~/code/react-mastermind-user-lab`
-
 **Setup for the lesson:**
 
 1. `cd ~/student/react-mastermind`
